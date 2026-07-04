@@ -1,0 +1,169 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "employeeId": "ADMIN001",
+      "username": "admin",
+      "name": "System Admin",
+      "email": "admin@company.com",
+      "password": "admin123",
+      "role": "admin",
+      "department": "Operations",
+      "designation": "HR Manager",
+      "salary": 6000,
+      "manager": "Board"
+    },
+    {
+      "id": 2,
+      "employeeId": "EMP001",
+      "username": "rahul",
+      "name": "Rahul Sharma",
+      "email": "rahul@company.com",
+      "password": "rahul123",
+      "role": "employee",
+      "department": "IT",
+      "designation": "Frontend Developer",
+      "salary": 3200,
+      "manager": "Priya Nair"
+    },
+    {
+      "id": 3,
+      "employeeId": "EMP002",
+      "username": "anita",
+      "name": "Anita Verma",
+      "email": "anita@company.com",
+      "password": "anita123",
+      "role": "employee",
+      "department": "HR",
+      "designation": "HR Executive",
+      "salary": 2800,
+      "manager": "System Admin"
+    },
+    {
+      "id": 4,
+      "employeeId": "EMP003",
+      "username": "john",
+      "name": "John Mathew",
+      "email": "john@company.com",
+      "password": "john123",
+      "role": "employee",
+      "department": "Finance",
+      "designation": "Accountant",
+      "salary": 3000,
+      "manager": "Neha Singh"
+    }
+  ],
+  "employees": [
+    {
+      "id": 2,
+      "employeeId": "EMP001",
+      "name": "Rahul Sharma",
+      "email": "rahul@company.com",
+      "department": "IT",
+      "designation": "Frontend Developer",
+      "salary": 3200,
+      "joinDate": "2025-08-10",
+      "status": "Active",
+      "manager": "Priya Nair"
+    },
+    {
+      "id": 3,
+      "employeeId": "EMP002",
+      "name": "Anita Verma",
+      "email": "anita@company.com",
+      "department": "HR",
+      "designation": "HR Executive",
+      "salary": 2800,
+      "joinDate": "2025-06-18",
+      "status": "Active",
+      "manager": "System Admin"
+    },
+    {
+      "id": 4,
+      "employeeId": "EMP003",
+      "name": "John Mathew",
+      "email": "john@company.com",
+      "department": "Finance",
+      "designation": "Accountant",
+      "salary": 3000,
+      "joinDate": "2025-04-07",
+      "status": "Active",
+      "manager": "Neha Singh"
+    }
+  ],
+  "attendance": [
+    {
+      "id": 1,
+      "employeeId": "EMP001",
+      "date": "2026-04-05",
+      "status": "Present"
+    },
+    {
+      "id": 2,
+      "employeeId": "EMP002",
+      "date": "2026-04-05",
+      "status": "Late"
+    },
+    {
+      "id": 3,
+      "employeeId": "EMP003",
+      "date": "2026-04-05",
+      "status": "Absent"
+    },
+    {
+      "id": 4,
+      "employeeId": "EMP001",
+      "date": "2026-04-04",
+      "status": "Present"
+    },
+    {
+      "id": 5,
+      "employeeId": "EMP001",
+      "date": "2026-04-03",
+      "status": "Present"
+    }
+  ],
+  "leaves": [
+    {
+      "id": 1,
+      "employeeId": "EMP001",
+      "fromDate": "2026-04-12",
+      "toDate": "2026-04-13",
+      "reason": "Family function",
+      "status": "Pending",
+      "appliedOn": "2026-04-05"
+    },
+    {
+      "id": 2,
+      "employeeId": "EMP002",
+      "fromDate": "2026-03-20",
+      "toDate": "2026-03-20",
+      "reason": "Medical appointment",
+      "status": "Approved",
+      "appliedOn": "2026-03-15"
+    }
+  ],
+  "performance": [
+    {
+      "id": 1,
+      "employeeId": "EMP001",
+      "month": "March 2026",
+      "rating": "Good",
+      "review": "Consistently delivered assigned sprint tasks on time."
+    },
+    {
+      "id": 2,
+      "employeeId": "EMP002",
+      "month": "March 2026",
+      "rating": "Excellent",
+      "review": "Handled onboarding and policy updates with strong ownership."
+    },
+    {
+      "id": 3,
+      "employeeId": "EMP003",
+      "month": "March 2026",
+      "rating": "Average",
+      "review": "Good domain knowledge, but month-end closures need tighter turnaround."
+    }
+  ]
+}

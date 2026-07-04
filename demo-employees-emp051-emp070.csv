@@ -1,0 +1,21 @@
+employeeId,name,email,contactNumber,address,department,designation,salary,joinDate,manager,organizationId
+EMP051,Aditya Kulkarni,aditya.kulkarni51@company.com,9876500051,Nashik Maharashtra,IT,React Developer,43000,2025-05-26,Priya Nair,ORG-ADMIN001
+EMP052,Simran Kaur,simran.kaur52@company.com,9876500052,Amritsar Punjab,IT,Node.js Developer,46000,2025-06-02,Priya Nair,ORG-ADMIN001
+EMP053,Yash Tiwari,yash.tiwari53@company.com,9876500053,Kanpur Uttar Pradesh,IT,System Analyst,44000,2025-06-09,Priya Nair,ORG-ADMIN001
+EMP054,Diya Bhatia,diya.bhatia54@company.com,9876500054,Faridabad Haryana,IT,Product Designer,42000,2025-06-16,Priya Nair,ORG-ADMIN001
+EMP055,Harsh Jain,harsh.jain55@company.com,9876500055,Udaipur Rajasthan,HR,HR Generalist,38000,2025-06-23,System Admin,ORG-ADMIN001
+EMP056,Priyal Desai,priyal.desai56@company.com,9876500056,Rajkot Gujarat,HR,Talent Acquisition Executive,39000,2025-06-30,System Admin,ORG-ADMIN001
+EMP057,Aman Saxena,aman.saxena57@company.com,9876500057,Agra Uttar Pradesh,HR,Onboarding Specialist,36000,2025-07-07,System Admin,ORG-ADMIN001
+EMP058,Rhea Pillai,rhea.pillai58@company.com,9876500058,Mysuru Karnataka,HR,HR Coordinator,35000,2025-07-14,System Admin,ORG-ADMIN001
+EMP059,Varun Chawla,varun.chawla59@company.com,9876500059,Jalandhar Punjab,Finance,Senior Accountant,46000,2025-07-21,Neha Singh,ORG-ADMIN001
+EMP060,Mitali Roy,mitali.roy60@company.com,9876500060,Siliguri West Bengal,Finance,Billing Executive,37000,2025-07-28,Neha Singh,ORG-ADMIN001
+EMP061,Pranav Mishra,pranav.mishra61@company.com,9876500061,Patna Bihar,Finance,Financial Analyst,45000,2025-08-04,Neha Singh,ORG-ADMIN001
+EMP062,Ayesha Sheikh,ayesha.sheikh62@company.com,9876500062,Bhopal Madhya Pradesh,Finance,Accounts Payable Executive,39000,2025-08-11,Neha Singh,ORG-ADMIN001
+EMP063,Raghav Sinha,raghav.sinha63@company.com,9876500063,Ranchi Jharkhand,Operations,Operations Analyst,41000,2025-08-18,System Admin,ORG-ADMIN001
+EMP064,Naina Chopra,naina.chopra64@company.com,9876500064,Dehradun Uttarakhand,Operations,Admin Coordinator,36000,2025-08-25,System Admin,ORG-ADMIN001
+EMP065,Krish Arora,krish.arora65@company.com,9876500065,Panipat Haryana,Operations,Logistics Executive,38000,2025-09-01,System Admin,ORG-ADMIN001
+EMP066,Shreya Ghosh,shreya.ghosh66@company.com,9876500066,Durgapur West Bengal,Operations,Office Administrator,37000,2025-09-08,System Admin,ORG-ADMIN001
+EMP067,Irfan Ali,irfan.ali67@company.com,9876500067,Aligarh Uttar Pradesh,IT,Database Administrator,47000,2025-09-15,Priya Nair,ORG-ADMIN001
+EMP068,Muskan Jain,muskan.jain68@company.com,9876500068,Kota Rajasthan,IT,Support Engineer,36000,2025-09-22,Priya Nair,ORG-ADMIN001
+EMP069,Sameer Naik,sameer.naik69@company.com,9876500069,Goa Goa,Finance,Payroll Executive,40000,2025-09-29,Neha Singh,ORG-ADMIN001
+EMP070,Esha Banerjee,esha.banerjee70@company.com,9876500070,Bhubaneswar Odisha,HR,Employee Engagement Executive,39000,2025-10-06,System Admin,ORG-ADMIN001

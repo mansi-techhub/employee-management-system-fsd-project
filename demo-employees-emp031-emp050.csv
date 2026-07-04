@@ -1,0 +1,21 @@
+employeeId,name,email,contactNumber,address,department,designation,salary,joinDate,manager,organizationId
+EMP031,Aarav Mehta,aarav.mehta31@company.com,9876500031,Pune Maharashtra,IT,Frontend Developer,42000,2025-01-06,Priya Nair,ORG-ADMIN001
+EMP032,Isha Kapoor,isha.kapoor32@company.com,9876500032,Delhi Delhi,IT,Backend Developer,45000,2025-01-13,Priya Nair,ORG-ADMIN001
+EMP033,Rohan Singh,rohan.singh33@company.com,9876500033,Jaipur Rajasthan,IT,QA Engineer,38000,2025-01-20,Priya Nair,ORG-ADMIN001
+EMP034,Neha Joshi,neha.joshi34@company.com,9876500034,Ahmedabad Gujarat,IT,UI Designer,40000,2025-01-27,Priya Nair,ORG-ADMIN001
+EMP035,Vikram Rao,vikram.rao35@company.com,9876500035,Bengaluru Karnataka,HR,HR Executive,36000,2025-02-03,System Admin,ORG-ADMIN001
+EMP036,Ananya Nair,ananya.nair36@company.com,9876500036,Kochi Kerala,HR,Recruiter,37000,2025-02-10,System Admin,ORG-ADMIN001
+EMP037,Karan Malhotra,karan.malhotra37@company.com,9876500037,Chandigarh Punjab,HR,Training Coordinator,35000,2025-02-17,System Admin,ORG-ADMIN001
+EMP038,Meera Iyer,meera.iyer38@company.com,9876500038,Chennai Tamil Nadu,HR,Payroll Assistant,39000,2025-02-24,System Admin,ORG-ADMIN001
+EMP039,Arjun Das,arjun.das39@company.com,9876500039,Kolkata West Bengal,Finance,Accountant,41000,2025-03-03,Neha Singh,ORG-ADMIN001
+EMP040,Pooja Shah,pooja.shah40@company.com,9876500040,Surat Gujarat,Finance,Finance Analyst,44000,2025-03-10,Neha Singh,ORG-ADMIN001
+EMP041,Sahil Khan,sahil.khan41@company.com,9876500041,Lucknow Uttar Pradesh,Finance,Audit Associate,40000,2025-03-17,Neha Singh,ORG-ADMIN001
+EMP042,Ritika Sen,ritika.sen42@company.com,9876500042,Bhopal Madhya Pradesh,Finance,Accounts Executive,38000,2025-03-24,Neha Singh,ORG-ADMIN001
+EMP043,Dev Patel,dev.patel43@company.com,9876500043,Vadodara Gujarat,Operations,Operations Executive,37000,2025-03-31,System Admin,ORG-ADMIN001
+EMP044,Sneha Reddy,sneha.reddy44@company.com,9876500044,Hyderabad Telangana,Operations,Office Coordinator,36000,2025-04-07,System Admin,ORG-ADMIN001
+EMP045,Nikhil Bansal,nikhil.bansal45@company.com,9876500045,Noida Uttar Pradesh,Operations,Facility Supervisor,39000,2025-04-14,System Admin,ORG-ADMIN001
+EMP046,Kavya Menon,kavya.menon46@company.com,9876500046,Thiruvananthapuram Kerala,Operations,Admin Assistant,34000,2025-04-21,System Admin,ORG-ADMIN001
+EMP047,Manish Gupta,manish.gupta47@company.com,9876500047,Indore Madhya Pradesh,IT,DevOps Engineer,48000,2025-04-28,Priya Nair,ORG-ADMIN001
+EMP048,Alisha Thomas,alisha.thomas48@company.com,9876500048,Mumbai Maharashtra,IT,Software Tester,39000,2025-05-05,Priya Nair,ORG-ADMIN001
+EMP049,Raj Verma,raj.verma49@company.com,9876500049,Nagpur Maharashtra,Finance,Tax Associate,42000,2025-05-12,Neha Singh,ORG-ADMIN001
+EMP050,Tanya Agarwal,tanya.agarwal50@company.com,9876500050,Gurugram Haryana,HR,Employee Relations Executive,41000,2025-05-19,System Admin,ORG-ADMIN001
